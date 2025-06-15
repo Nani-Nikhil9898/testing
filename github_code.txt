@@ -1,3 +1,5 @@
+--------This is for uploading into repo (local to remote)------------
+
 git init  (creates a hidden init file)
 git add pandas.py  (adds pandas.py file to current branch)
 git commit -m "very first git commit"

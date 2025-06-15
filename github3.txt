@@ -1,0 +1,9 @@
+--------This is for creating a branch in repo------------
+
+git pull
+git branch branch_name  (create a branch)
+git checkout branch_name    (move from main to branch_name)
+(use git branch to check the current location)
+git add .
+git commit -m "afad"
+git push -u origin branch_name

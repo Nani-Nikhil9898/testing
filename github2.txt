@@ -1,3 +1,5 @@
+--------This is for cloning from repo to work (repo to local)------------
+
 git clone https://github.com/Nani-Nikhil9898/testing.git
 
 (Change something)
@@ -5,3 +7,7 @@ git clone https://github.com/Nani-Nikhil9898/testing.git
 git add .
 git commit -m "changes"
 git push -u origin main
+
+---------------------------------
+git pull is used to maintain the consistency between remote repo & local repo.
+So, when cloned a git repo, before pushing the changes, use git pull.
