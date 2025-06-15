@@ -1,0 +1,21 @@
+git init  (creates a hidden init file)
+git add pandas.py  (adds pandas.py file to current branch)
+git commit -m "very first git commit"
+
+if above code provides error, do the below
+    Step 1 :    git config --global user.email "you@example.com"
+    Step 2 :    git config --global user.name "Monalsingh"
+    Step 3 :    git commit -m "very first git commit"
+
+
+>> Make sure your are on main branch by running below 
+git branch -M main  
+(# while installing, we mentioned to use 'main', so no need)
+
+git remote add origin https://github.com/Monalsingh/dummy1.git
+(add your git repo url)
+
+git push -u origin main  	(saves changes into online repo)
+
+-------------------------------------------------------------------
+git add .    (adds all files in the current directory to git branch)
