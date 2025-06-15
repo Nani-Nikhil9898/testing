@@ -1,0 +1,7 @@
+git clone https://github.com/Nani-Nikhil9898/testing.git
+
+(Change something)
+
+git add .
+git commit -m "changes"
+git push -u origin main
