@@ -1,0 +1,2 @@
+git pull is used to maintain the consistency between remote repo & local repo.
+So, when cloned a git repo, before pushing the changes, use git pull.
